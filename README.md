@@ -20,7 +20,7 @@
 
 <ol><h4>Draft da proposta:</h4></ol>
 <ol> 
-https://youtu.be/3RqgB_pA0Ww
+https://www.youtube.com/watch?v=d72xRmKAdww
 
 
 <h4>Simulação do Protótipo (Tinkercad):</h4>
