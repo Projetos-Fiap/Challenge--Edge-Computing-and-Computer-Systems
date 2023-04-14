@@ -3,8 +3,7 @@
 <h3>Sprint 01: Edge Computing and Computer Systems</h3>
 
 
-<ol><h4>Integrantes:</h4></ol>
-<ol> 
+<h4>Integrantes:</h4> 
 
 <li>Alessandra Vaiano RM551497</li>  
 
@@ -16,28 +15,32 @@
   
 <li>Vitor Maia RM99658</li>
 
-</ol>
 
-<ol><h4>Draft da proposta:</h4></ol>
-<ol> 
+
+<h4>Draft da proposta:</h4>
+ 
 https://www.youtube.com/watch?v=d72xRmKAdww
 
 
 <h4>Simulação do Protótipo (Tinkercad):</h4>
 
 https://www.tinkercad.com/things/bnNWUCK3XDr?sharecode=RKNPcVpfmdr_fqo3pimyXLLVpdfGuBrhFevFMGrraS4
+<br>
+<br><b>Materiais utilizados:</b>
+<li>1 Arduino Uno R3</li>
+<li>1 Potenciometro</li>
+<li>1 LCD 16 x 2 (I2C)</li>
+<li>1 Protoboard</li>
+<li>Jumper Cables</li>
 
-<br>1 Arduino Uno R3
-<br>1 Potenciometro
-<br>1 LCD 16 x 2 (I2C)
-<br>1 Protoboard
-<br>Jumper Cables
-
+<br><b>Imagem:</b>
 
 ![Sprint 01 Edge](https://user-images.githubusercontent.com/126624520/231861426-89486fac-a32b-4350-891b-14520e010c81.png)
 
-codigo_Tinkercad.ino //código com comentários
-
+<b>Arquivo:</b> codigo_Tinkercad.ino //código com comentários
+<br>
+<br><b>Código:</b>
+<br>
 <br>#include <Wire.h>
 <br>#include <LiquidCrystal_I2C.h>
 <br>
