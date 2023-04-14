@@ -36,7 +36,7 @@ https://www.tinkercad.com/things/bnNWUCK3XDr?sharecode=RKNPcVpfmdr_fqo3pimyXLLVp
 
 ![Sprint 01 Edge](https://user-images.githubusercontent.com/126624520/231861426-89486fac-a32b-4350-891b-14520e010c81.png)
 
-
+codigo_Tinkercad.ino //código com comentários
 
 <br>#include <Wire.h>
 <br>#include <LiquidCrystal_I2C.h>
